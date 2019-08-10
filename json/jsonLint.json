@@ -1,0 +1,22 @@
+{
+	"firstName": "Jameel",
+	"LastName": "Altaf",
+	"Id": 1894832,
+	"DOB": "06/11/1992",
+	"course": "MAD312",
+	"Active": false,
+	"GPA": 80.7,
+	"Address": {
+		"number": 1645,
+		"Street": "guy concodia",
+		"Zip": "H3H2H1"
+	},
+	"phoneNumber": ["(514)-661-3264", "(514)-765-7363", "(514)-432-2345"],
+	"Result": [{
+		"course": "Software",
+		"mark": 86
+	}, {
+		"course": "Program Debuging",
+		"mark": 98
+	}]
+}
